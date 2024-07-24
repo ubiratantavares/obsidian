@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Curso 4 - Principios de Desenvolvimento Agil de Software" company="Coursera" webLink="https://www.coursera.org" view-date="2017-10-01" view-index="0" gantt-divider-location="534" resource-divider-location="300" version="2.8.5" locale="pt_BR">
+    <description/>
+    <view zooming-state="default:6" id="gantt-chart">
+        <field id="tpd3" name="Nome" width="327" order="0"/>
+        <field id="tpd4" name="Data inicial" width="68" order="1"/>
+        <field id="tpd5" name="Data final" width="135" order="2"/>
+        <option id="color.recent"><![CDATA[#ff3366 #ff9999 #ffff99 #ffcccc]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nome" width="210" order="0"/>
+        <field id="1" name="Função" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="true"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Introdução e Visão Geral do Curso" color="#ffcccc" meeting="false" start="2017-09-11" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído]]></notes>
+        </task>
+        <task id="1" name="Manifesto Ágil" color="#ffcccc" meeting="false" start="2017-09-13" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído]]></notes>
+        </task>
+        <task id="2" name="Scrum&amp;XP: Introdução a User Stories" color="#ffcccc" meeting="false" start="2017-09-15" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="3" name="Scrum&amp;XP: Visão da Aplicação" color="#ffcccc" meeting="false" start="2017-09-17" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="5" name="Scrum&amp;XP: Criando User Stories" color="#ffff99" meeting="false" start="2017-09-18" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="6" name="Scrum&amp;XP: Análise Ágil e Visão da Aplicação" color="#ffff99" meeting="false" start="2017-09-20" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="7" name="Prática em Criar User Stories e Análise Ágil" color="#ffff99" meeting="false" start="2017-09-22" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="8" name="Pair Programming" color="#ffff99" meeting="false" start="2017-09-23" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="11" name="Scrum&amp;XP: Papéis do Scrum" color="#ff3366" meeting="false" start="2017-09-25" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="12" name="Scrum&amp;XP: O Conceito de Tarefa (Task)" color="#ff3366" meeting="false" start="2017-09-27" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluido.]]></notes>
+        </task>
+        <task id="13" name="Planejamento das Iterações" color="#ff3366" meeting="false" start="2017-09-29" duration="2" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="15" name="Prática em Papeis do Scrum e Tasks" color="#ff3366" meeting="false" start="2017-10-01" duration="1" complete="0" expand="true">
+            <notes><![CDATA[Concluído.]]></notes>
+        </task>
+        <task id="16" name="Modelagem Ágil" meeting="false" start="2017-10-02" duration="2" complete="0" expand="true"/>
+        <task id="17" name="Scrum&amp;XP: Processo Adotado" meeting="false" start="2017-10-04" duration="2" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>

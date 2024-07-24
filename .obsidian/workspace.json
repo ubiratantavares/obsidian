@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "9a7a138e224414a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "030d727e1dcfcb82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d59e5f2ed236af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ada/Cursos/Git e Versionamento/Como enviar um projeto rastreado pelo git da máquina local para o ambiente remoto no github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f6b6816c7d27993",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b33c1d746b92a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf47857b6a5bdd89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea1d8c13d5e799ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e53596d75467630",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed5269b8e28efa0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIO/Santander 2024 - Fundamentos de IA para Devs/Santander 2024 - Fundamentos de IA para Devs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 675.5
+  },
+  "right": {
+    "id": "49cd98be3d446142",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b4ddc0bc3490fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512e4488bc0a1797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ada/Cursos/Git e Versionamento/Como enviar um projeto rastreado pelo git da máquina local para o ambiente remoto no github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78d84467ed8f9c07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ada/Cursos/Git e Versionamento/Como enviar um projeto rastreado pelo git da máquina local para o ambiente remoto no github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55c5e84e5381095a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be9251b163234f92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ada/Cursos/Git e Versionamento/Como enviar um projeto rastreado pelo git da máquina local para o ambiente remoto no github.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d59e5f2ed236af9",
+  "lastOpenFiles": [
+    "CPqD/analise.md",
+    "analise.md",
+    "README.md",
+    "Ada/Cursos/Git e Versionamento/como criar o arquivo .gitignore através do terminal do linux ubuntu através do git.md",
+    "Ada/Cursos/Git e Versionamento/Como enviar um projeto rastreado pelo git da máquina local para o ambiente remoto no github.md",
+    "Ada/Cursos/Git e Versionamento/Git e Versionamento.md",
+    "Ada/Data4All/Trilha Tech/Back-End/Back-End.md",
+    "Programacao/Python/Vizinhaça de Elemento da Matriz.md",
+    "Programacao/Fortran/Construindo Gráfico 2D.md",
+    "Programacao/Fortran/Como Converter de Número Inteiro para Decimal.md",
+    "Programacao/Fortran/Instalação da Ferramenta GNUPlot.md",
+    "Programacao/Fortran/Limites de Funções.md",
+    "Programacao/Fortran/Cálculo Diferencial e Integral.md",
+    "Meus Projetos/EcoMotorTech/Projeto.md",
+    "Meus Projetos/EcoMotorTech/MVP.md",
+    "Meus Projetos/EcoMotorTech/Canvas.md",
+    "Programacao/Python/Classe Ponto.md",
+    "Meus Projetos/EcoMotorTech",
+    "Untitled",
+    "Programacao/Python/Classe Validador.md",
+    "Programacao/Python/Classe NumeroComplexo.md",
+    "Meus Projetos/Projetos de IoT e IA com Áudio.md",
+    "Programacao/Python/Como Automatizar Envio de Relatório Diário via E-mail.md",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos de Redes e Boas Práticas.md",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos de Virtualizacao/Fundamentos de Virtualização.md",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos de Rede/Fundamentos de Rede.md",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos de Virtualizacao",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos de Rede",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos da biblioteca de Infraestrutura V4/Fundamentos da biblioteca de Infraestrutura V4.md",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos da biblioteca de Infraestrutura V4",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos do Microsoft Azure/Fundamentos do Microsoft Azure.md",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas/Fundamentos do Microsoft Azure",
+    "T-Academy/Bootcamp Cloud/Fundamentos de Redes e Boas Práticas",
+    "T-Academy/Bootcamp Cloud",
+    "T-Academy/IA Generativa/Fundamentos para uma Carreira em IA Generativa por Microsoft e LinkedIn/Copiloto",
+    "T-Academy/IA Generativa/Fundamentos para uma Carreira em IA Generativa por Microsoft e LinkedIn/Etica em IA",
+    "T-Academy/Bootcamp Lets-Java e Angular/JavaScript Avancado/Módulo I/Efeitos colaterais-1.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723161726.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162336.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162541.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162532.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162524.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162515.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162507.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162457.png",
+    "3Blue1Brown/Calculus/Pasted image 20240723162453.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Cursos a produziir/Fundamentos de Vibração Acústica/semana 1/Untitled.canvas"
+  ]
+}

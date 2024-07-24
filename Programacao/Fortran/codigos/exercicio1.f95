@@ -1,0 +1,10 @@
+PROGRAM exercicio1
+DIMENSION A(10)
+DO 15 I = 1, 10
+		A(I) = I*5
+15 CONTINUE
+DO 20 J = 10, 1, -1
+	WRITE (*,*) A(J)
+20	CONTINUE
+STOP
+END
