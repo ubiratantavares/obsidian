@@ -1,3 +1,24 @@
 *.mp4
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.iml
+*.xml
+*.zip
+*.jar
+*.war
+*.doc
+*.docx
+*.class
+*.eml
+*.txt
+*.bak
+*.pyc
+*.mp3
+*.wav
+*.exe
 temp/
+
 
